@@ -31,3 +31,6 @@ The dashboard helps business stakeholders and financial analysts:
 ## 🪪 License
 
 This project is released under the MIT License.
+
+## Author
+**PAVITHRAN V**
